@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../booktest/.idea/booktest.iml" filepath="$PROJECT_DIR$/../booktest/.idea/booktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mongdb/.idea/mongdb.iml" filepath="$PROJECT_DIR$/../mongdb/.idea/mongdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python3.iml" filepath="$PROJECT_DIR$/.idea/python3.iml" />
+      <module fileurl="file://C:/scrapy/.idea/scrapy.iml" filepath="C:/scrapy/.idea/scrapy.iml" />
+    </modules>
+  </component>
+</project>

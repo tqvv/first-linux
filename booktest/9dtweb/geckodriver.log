@@ -1,0 +1,62 @@
+1507451297579	geckodriver	INFO	geckodriver 0.19.0
+1507451297598	geckodriver	INFO	Listening on 127.0.0.1:57920
+1507451299653	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.2ko8SbjTYpTn"
+1507451299920	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507451300321	Marionette	INFO	Enabled via --marionette
+JavaScript warning: resource://addoninstaller/log4moz.js, line 489: Date.prototype.toLocaleFormat is deprecated; consider using Intl.DateTimeFormat instead
+1507451304483	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1507451304483	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1507451304484	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1507451304484	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+[Child 2020] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2020] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 1129: TypeError: aAddon._installLocation is undefined
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 1129: TypeError: aAddon._installLocation is undefined
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 1129: TypeError: aAddon._installLocation is undefined
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 1129: TypeError: aAddon._installLocation is undefined
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 1129: TypeError: aAddon._installLocation is undefined
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 1129: TypeError: aAddon._installLocation is undefined
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 1129: TypeError: aAddon._installLocation is undefined
+1507451304676	Marionette	INFO	Listening on port 57927
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1507451305111	Marionette	DEBUG	Register listener.js for window 6442450945
+console.error: commonfix: 
+  Message: ReferenceError: reason is not defined
+  Stack:
+    exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+unload@resource://gre/modules/commonjs/toolkit/loader.js:1072:3
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Local/Temp/rust_mozprofile.2ko8SbjTYpTn/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4405:11
+observe@resource://gre/modules/addons/XPIProvider.jsm:2272:15
+
+[Parent 2236] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+i.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
