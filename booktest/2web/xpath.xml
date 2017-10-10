@@ -1,0 +1,23 @@
+<xml version="1.0" encoding="ISO-8859-1">
+    <classrom>
+        <student>
+            <id>10001</id>
+            <name lang = "en">marry</name>
+            <age>20</age>
+            <country>china</country>
+        </student>
+        <student>
+            <id>10002</id>
+            <name lang = "en">jack</name>
+            <age>25</age>
+            <country>usa</country>
+        </student>
+        <teacher>
+            <classid>1</classid>
+            <name lang = "en">tom</name>
+            <age>50</age>
+            <country>USA</country>
+        </teacher>
+
+    </classrom>
+</xml>
